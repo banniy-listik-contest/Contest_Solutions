@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="d_hard/Chislo_po_proizvedeniu_deliteley/A.vcxproj" Id="9448c380-d5e9-4743-813c-51a589c952aa" />
+  <Project Path="d_hard/Obratnie_chisla/B.vcxproj" Id="13495353-143c-45ed-af07-fffc699afc8d" />
+</Solution>
